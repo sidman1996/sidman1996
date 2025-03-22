@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sidman1996
-- 🌱 I’m currently learning QA Automation 
+  - 🌱 I’m currently learning QA Automation
+  - Exprienced in BDE 
   ...
 
 <!---
